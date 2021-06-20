@@ -37,4 +37,4 @@
 ### 실시간 1:1 채팅 및 채팅방 기능
 
 채팅 기능을 위한 채팅 서버 저장소 주소 <br>
-https://github.com/sgo8308/LEBEIGECHAT
+https://github.com/sgo8308/LEBEIGE_PANGYO_HOAMEPAGE_CHATSERVER
