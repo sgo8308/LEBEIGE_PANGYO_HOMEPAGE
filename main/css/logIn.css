@@ -1,0 +1,49 @@
+input[type="submit"]{
+    color: #fff;
+    background: #111;
+    border: 1px solid #111 !important;
+    text-align: center;
+    display: inline-block;
+    width: 124px;
+    height: 78px;
+    padding: 5px 16px;
+}
+.logInBigContainer{
+    align-content: center;
+    width: 520px;
+    height: 535px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+.logInContainer{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.logInItems{
+    flex-grow: 1;
+}
+.cantLogIn{
+    display: flex;
+    flex-direction: row;
+}
+.cantLogIn a{
+    margin-top: 20px;
+    flex-grow: 1;
+    font-size: 14px;
+}
+input[type="text"],input[type="password"], input[type="text"], input[type="email"], input[type="url"], input[type="tel"]{
+    margin: 0 0 10px 0;
+    padding: 5px 0;
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+    box-sizing: content-box;
+    appearance: none;
+    font-size: 14px;
+}

@@ -1,0 +1,98 @@
+/* 메인템플릿 css*/
+
+.container{
+    font-size: 14px;
+    min-width: 1280px;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height:80px;
+}
+.header_item{
+}
+header li{
+    display: inline;
+    margin-top: 34px;
+    margin-left: 15px;
+}
+header>ol{
+    margin: 34px 60px 34px auto;
+    width: 477px;
+    height: 22px;
+    float: right;
+    text-align: right;
+}
+#pangyo{
+    margin-left: 80px;
+    margin-top: 34px;
+    font-size: 16px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.left{
+    padding: 0 20px 50px 50px;
+    width: 210px;
+}
+.leftMenu{
+    margin: 28px 0 0 10px;
+
+}
+.leftMenu li{
+    display: block;
+    padding: 4px 0;
+    line-height: 14px;
+    font-size: 13px;
+    text-align: -webkit-match-parent;
+    color: #777777;
+}
+.logo{
+    width: 160px;
+    height: 160px;
+    cursor: pointer;
+}
+.right{
+    padding: 0 20px 20px 20px;
+    flex-basis: 100%;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+#mainImage{
+    max-width: 95%;
+}
+footer{
+    margin-top: 100px;
+    padding: 50px 60px 60px;
+    border-top: 1px solid #e5e5e5;
+    height: 100px;
+}
+.companyInfo{
+    line-height: 20px;
+    color: #8E8E8E;
+    font-size: 12px;
+
+}
+.company h5{
+    font-size: 14px;
+    color: #444444;
+}
+.chatButton{
+    font-size: 12px;
+    position: fixed;
+    bottom: 18px;
+    right: 0px;
+    width: 70px;
+    height: 40px;
+
+    background-color: #353b4c;
+    letter-spacing: -1px;
+    color: #ffffff;
+    font-weight: normal;
+}

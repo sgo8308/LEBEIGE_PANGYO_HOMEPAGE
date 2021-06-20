@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c1a804c2-82d1-4e4f-a744-5fe0024dfaaa" name="jiwoo SFTP Server" url="http://192.168.35.165">
+        <fileTransfer rootFolder="/usr/local/apache2.4/htdocs" accessType="SFTP" host="192.168.35.165" port="22" sshConfigId="7e63125c-c081-4d50-a292-bb2ed38b6f7e" sshConfig="jiwoo@192.168.35.165:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
