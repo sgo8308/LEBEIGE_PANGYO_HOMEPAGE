@@ -4,7 +4,7 @@
 
 실제로 존재하는 판교 현대백화점에 있는 르베이지 매장을 온라인에서 소개하는 사이트입니다.<br>
 (어머님이 근무하셨던 매장이였으나 현재는 더 현대 서울 르베이지 매장으로 옮긴 상태입니다 ^^)<br><br>
-작품 소개 및 영상 링크 : https://cafe.naver.com/teamnovaopen<br><br>
+작품 소개 및 영상 링크 : https://cafe.naver.com/teamnovaopen/2210<br><br>
 
 ## 기능
 ### 회원가입, 로그인
