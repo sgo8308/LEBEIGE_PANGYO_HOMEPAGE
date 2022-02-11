@@ -3,7 +3,7 @@
 ### 작품 소개
 
 실제로 존재하는 판교 현대백화점에 있는 르베이지 매장을 온라인에서 소개하는 사이트입니다.<br>
-![pangyo](https://user-images.githubusercontent.com/71138398/153240475-21f7f3a3-3e1b-4650-ab9e-aa06e83879c2.gif)
+![pangyo](https://user-images.githubusercontent.com/71138398/153613591-0aa86801-9cf7-4b1e-b707-d6fde27d8811.gif)
 
 
 ## 기능
