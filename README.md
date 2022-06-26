@@ -38,3 +38,8 @@
 
 채팅 기능을 위한 채팅 서버 저장소 주소 <br>
 https://github.com/sgo8308/LEBEIGE_PANGYO_HOAMEPAGE_CHATSERVER
+
+
+<br>
+
+[이 곳](https://cafe.naver.com/teamnovaopen)에서 프로젝트에 대한 더 자세한 소개를 보실 수 있습니다.
