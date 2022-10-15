@@ -42,4 +42,4 @@ https://github.com/sgo8308/LEBEIGE_PANGYO_HOAMEPAGE_CHATSERVER
 
 <br>
 
-[이 곳](https://cafe.naver.com/teamnovaopen)에서 프로젝트에 대한 더 자세한 소개를 보실 수 있습니다.
+[이 곳](https://cafe.naver.com/teamnovaopen/2210)에서 프로젝트에 대한 더 자세한 소개를 보실 수 있습니다.
